@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **React,Node,Express,MongoDB,C++,JavaScript,SDLC,MySQl**
 
-- 📫 How to reach me **developer.imshahid@gmail.com**
+- 📫 Reach me anytime at **developer.imshahid@gmail.com**
 
-- 📄 Send any inquery at [https://drive.google.com/file/d/10XFlVno_NaoVGJLOLkPRC-egNaHMbnV1/view?usp=sharing](https://drive.google.com/file/d/10XFlVno_NaoVGJLOLkPRC-egNaHMbnV1/view?usp=sharing)
+- 📄 See My Resume [https://drive.google.com/file/d/10XFlVno_NaoVGJLOLkPRC-egNaHMbnV1/view?usp=sharing](https://drive.google.com/file/d/10XFlVno_NaoVGJLOLkPRC-egNaHMbnV1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
