@@ -18,27 +18,14 @@ I am a passionate software developer with expertise in MERN (MongoDB, Express.js
 - **Version Control:** Git
 - **Deployment:** Heroku, Netlify
 
-## Projects
-
-- **Project 1:** [Project Name](https://github.com/abdullaalshahid/project1)
-  Description of the project.
-
-- **Project 2:** [Project Name](https://github.com/abdullaalshahid/project2)
-  Description of the project.
-
-## Experience
-
-- **Software Developer** at Company XYZ *(Dates)*
-  Description of your responsibilities and achievements.
 
 ## Education
 
-- **Bachelor of Science in Computer Science** - University XYZ *(Year)*
+- **Bachelor of Science in Computer Science** - University of Green Bangladesh *(2023)*
 
 ## Certifications
 
-- **Machine Learning Certification** - Online Course Provider *(Year)*
-- **MERN Stack Certification** - Online Course Provider *(Year)*
+- **MERN Stack Certification** - Programming Hero *(2022)*
 
 ## Interests
 
@@ -49,6 +36,6 @@ I am a passionate software developer with expertise in MERN (MongoDB, Express.js
 
 ## Contact Me
 
-- Email: abdulla@example.com
-- Phone: +1234567890
+- Email: dev.imshahid@gmail.com
+- Phone: +880-181121-8207
 
