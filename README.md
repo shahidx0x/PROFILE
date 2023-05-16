@@ -1,7 +1,7 @@
 # Abdulla Al Shahid
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-al-shahid/)](https://www.linkedin.com/in/abdulla-al-shahid/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/abdullaalshahid)](https://github.com/abdullaalshahid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/abdulla-al-shahid/](https://www.linkedin.com/in/abdulla-al-shahid-71b972123/))]([https://www.linkedin.com/in/abdulla-al-shahid/](https://www.linkedin.com/in/abdulla-al-shahid-71b972123/))
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shahidx0x)](https://github.com/shahidx0x)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white&link=https://abdullaalshahid.com/)](https://abdullaalshahid.com/)
 
 ## About Me
@@ -21,7 +21,7 @@ I am a passionate software developer with expertise in MERN (MongoDB, Express.js
 
 ## Education
 
-- **Bachelor of Science in Computer Science** - University of Green Bangladesh *(2023)*
+- **Bachelor of Science in Computer Science** - Green University of Bangladesh *(2023)*
 
 ## Certifications
 
