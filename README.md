@@ -22,17 +22,6 @@ I am a passionate software developer with expertise in MERN (MongoDB, Express.js
 
 - **Bachelor of Science in Computer Science** - Green University of Bangladesh *(2023)*
 
-## Certifications
-
-- **MERN Stack Certification** - Programming Hero *(2022)*
-
-## Interests
-
-- Machine Learning
-- Full-stack Web Development
-- Artificial Intelligence
-- Data Science
-
 ## Contact Me
 
 - Email: dev.imshahid@gmail.com
