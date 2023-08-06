@@ -9,7 +9,7 @@ I am a passionate software developer with expertise in MERN (MongoDB, Express.js
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python
+- **Programming Languages:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 - **Frontend Development:** HTML, CSS, React.js
 - **Backend Development:** Node.js, Express.js
 - **Database:** MongoDB
