@@ -2,9 +2,8 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shahidx0x)](https://github.com/shahidx0x)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white&link=https://abdullaalshahid.com/)](https://imshahid.com/)
-[![GitHub](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-al-shahid-71b972123)
+![Discord](https://img.shields.io/discord/833605864781905982)
+
 
 ## About Me
 
