@@ -1,5 +1,5 @@
 # Abdulla Al Shahid
-### Full Stack Developer (MERN)
+Full Stack Developer (MERN)
 
 
 
