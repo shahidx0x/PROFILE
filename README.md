@@ -3,6 +3,7 @@
 
 
 <a  href="https://www.linkedin.com/in/abdulla-al-shahid-71b972123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.facebook.com/shahidx0x/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 
 ## About Me
 
